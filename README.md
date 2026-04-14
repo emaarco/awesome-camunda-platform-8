@@ -134,6 +134,7 @@ Other Camunda Platform 8 & Zeebe related applications
 - [zeebe-worker-java-template](https://github.com/camunda-community-hub/zeebe-worker-java-template) - Minimal template for a [Zeebe](https://github.com/camunda-cloud/zeebe)
 Java [worker](https://docs.camunda.io/docs/components/concepts/job-workers/). This template adds only the bare minimum of dependencies.
 - [FEEL REPL](https://camunda.github.io/feel-scala/docs/reference/#feel-repl) - easily try FEEL expressions using the REPL (Read-Eval-Print-Loop) of the [FEEL Scala engine](https://github.com/camunda/feel-scala).
+- [bpmn-to-code](https://github.com/emaarco/bpmn-to-code) - Gradle and Maven plugin that generates type-safe APIs from BPMN models across multiple engines. Ships with process unit-testing utilities and AI skills to accelerate development.
 
 ## Contributing
 Please help us keep this list up to date! PRs welcome, follow our [contribution guidelines](CONTRIBUTING.md).

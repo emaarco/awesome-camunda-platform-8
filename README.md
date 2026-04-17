@@ -109,6 +109,7 @@ Applications to interact with Camunda Platform 8 and Zeebe
 - [Zeebe Simple Tasklist](https://github.com/camunda-community-hub/zeebe-simple-tasklist) - Zeebe job worker for manual/user tasks
 - [Quintessential Task List](https://github.com/StephenOTT/Quintessential-Tasklist-Zeebe) - The quintessential Zeebe tasklist for BPMN Human tasks with Drag and Drop Form builder, client and server side validations, and drop in Form Rendering
 - [Python-Zeebe Sandbox](https://github.com/nimanamjouyan/python-zeebe) - A FastAPI python sandbox for Zeebe to deploy workflows, run instances and publish messages. This dockerised app runs Zeebe Simple Monitor, a single node Zeebe broker and a FastAPI python container to allow exploration/investigation of Zeebe features and workflows.
+- [bpmn-vscode-modeler](https://github.com/Miragon/bpmn-vscode-modeler) - BPMN and DMN modeler for VS Code with support for Camunda 7 and Camunda 8.
 
 ## Testing
 
